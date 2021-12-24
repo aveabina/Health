@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Health</string>
+    <string name="fatique1">Переутомление (Ортостатическая проба)</string>
+    <string name="note">
+        Для прохождения теста необходимо иметь возможность лечь на 5 минут. Время проведения теста около 10-15 минут.
+    </string>
+    <string name="date">Дата вашего рождения:</string>
+    <string name="item1">1. Необходимо лечь и лежать 5 минут почти без движений.</string>
+    <string name="item2">2. Посчитать пульс в течение минуты.</string>
+    <string name="item3">3. Введите пульс в положении лежа:</string>
+    <string name="item4">4. Встать и стоять почти без движений 5 минут.</string>
+    <string name="item5">5. Посчитать пульс в течение минуты.</string>
+    <string name="item6">6. Введите пульс в положении стоя:</string>
+    <string name="item7">7. Нажмите "Ввод". Тест завершен!</string>
+    <string name="result">Результаты теста</string>
+    <string name="reminder">Не забывайте о регулярном профессиональном медицинском осмотре!</string>
+    <string name="low">Введенные значения соответствуют отсутствию переутомления</string>
+    <string name="normal">Введеные значения соответствуют среднему уровню переутомления</string>
+    <string name="high">Введенные значения соответствуют высокому уровню переутомления</string>
+</resources>
